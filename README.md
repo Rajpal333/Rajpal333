@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajpal Singh Panwar
 
-🎓 B.Tech CSE | DSA + Web Development Learner
+🎓 B.Tech CSE | Frontend Developer | C++ & DSA Enthusiast | Building Projects in Web Dev
 
 💡 Currently Learning:
 - C++ (DSA)
