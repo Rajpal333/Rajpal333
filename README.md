@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajpal Singh Panwar
 
-<!--
-**Rajpal333/Rajpal333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | DSA + Web Development Learner
 
-Here are some ideas to get you started:
+💡 Currently Learning:
+- C++ (DSA)
+- HTML, CSS, JavaScript (Web Dev)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+C++, HTML, CSS, JS, Git, GitHub
+
+📁 Projects:
+- Student Management System
+- Calculator App
+- Amazon Clone
+- Portfolio Website (Coming Soon)
+
+📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/rajpal-singh-panwar-a987ba365)
